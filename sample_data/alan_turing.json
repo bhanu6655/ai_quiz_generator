@@ -1,0 +1,56 @@
+{
+  "id": 1,
+  "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "title": "Alan Turing",
+  "summary": "Alan Turing was a British mathematician, logician and computer scientist whose work laid the foundations of computer science and AI.",
+  "key_entities": {
+    "people": [
+      "Alan Turing",
+      "Alonzo Church"
+    ],
+    "organizations": [
+      "University of Cambridge",
+      "Bletchley Park"
+    ],
+    "locations": [
+      "United Kingdom"
+    ]
+  },
+  "sections": [
+    "Early life",
+    "Academic career",
+    "World War II",
+    "Legacy"
+  ],
+  "quiz": [
+    {
+      "question": "What was Turing's major wartime contribution?",
+      "options": [
+        "Designing the atomic bomb",
+        "Breaking the Enigma code",
+        "Inventing radar",
+        "Developing jet engines"
+      ],
+      "answer": "Breaking the Enigma code",
+      "difficulty": "medium",
+      "explanation": "Covered in the 'World War II' section."
+    },
+    {
+      "question": "Which test is associated with Turing's ideas on machine intelligence?",
+      "options": [
+        "Voight-Kampff test",
+        "Turing test",
+        "Rorschach test",
+        "Bell test"
+      ],
+      "answer": "Turing test",
+      "difficulty": "easy",
+      "explanation": "Mentioned under legacy and AI discussion."
+    }
+  ],
+  "related_topics": [
+    "Cryptography",
+    "Enigma machine",
+    "Computing machinery and intelligence"
+  ]
+}
