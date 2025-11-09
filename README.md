@@ -38,3 +38,9 @@ See `backend/prompts.py` and `backend/llm_quiz_generator.py` for the LangChain c
 
 ## Sample Data
 See `sample_data/` for example URLs and a sample JSON.
+
+
+
+https://github.com/user-attachments/assets/4e96ed57-8b6f-4a45-870d-8db86a04fc34
+
+
